@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Marakna
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on JS frameworks
 - 📫 How to reach me yashmarakna007@gmail.com or http://yashmarakna.me/
 
